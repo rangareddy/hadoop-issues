@@ -1,5 +1,5 @@
 # hadoop-issues
-Hadoop Component Related Issues and Solutions
+## Hadoop Component Related Issues and Solutions
 
 1. Permission denied: user=root, access=WRITE, inode="/user":hdfs:supergroup
 
